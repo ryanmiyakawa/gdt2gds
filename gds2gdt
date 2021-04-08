@@ -1,0 +1,5 @@
+#!/bin/tcsh -f
+## call with wrapper script so multiple OS versions can be made
+##  and called with the same name
+exec gds2gdt.`uname -s` $*
+

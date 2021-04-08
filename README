@@ -1,0 +1,12 @@
+Use the *.build files to compile the code.
+You may have to tweak the CCFLAGS and CC settings
+
+Use perldoc, pos2man, and pod2html to create
+various help formats from gds2gdt.C and gdt2gds.C
+
+See Examples directory for how to call
+from Perl.
+
+see gds2gdt and gdt2gds wrapper scripts for cross-platform use
+
+/Users/rhmiyakawa/Documents/MATLAB/GDS/old/GDS_source/GDT-1.0.1_RMEdited_working/gdt2gds.build
