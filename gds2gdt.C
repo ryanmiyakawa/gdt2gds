@@ -31,7 +31,7 @@
 //#include <kvstypes.h>
 #include "kvsstring_c.h"
 #include "gdsStream.h"
-#include "iostream.h"
+#include <iostream>
 using namespace std;
 
 extern void print_help();
